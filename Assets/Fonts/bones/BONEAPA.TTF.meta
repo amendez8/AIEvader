@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ed41a029bdc806a449159233abf32bb9
+timeCreated: 1480027374
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bone
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a7777b3fff61aa947abd1c389b5a20c6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
